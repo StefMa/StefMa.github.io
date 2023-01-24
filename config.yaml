@@ -1,0 +1,62 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: Stefan 'StefMa' M.
+module:
+  imports:
+    path: github.com/StefMa/hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+    # Logo (from static/images/logos/___)
+    image: logo.svg
+    link: /
+    # Default width/height. Uncomment if you need to change
+    width: 90
+    # height: 10
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Stefan "StefMa" M.
+    # Hero subtitle (optional)
+    subtitle: 'Passionate Android developer with over a decade of experience. Takes architecture, testing, and developer productivity seriously. Loves to automate things and takes ownership of the projects he  works on. Believes in open-source software and Scrum. Loves to share his knowledge in various ways.'
+    # Button text
+    buttontext: 'Work experience'
+    # Where the main hero button links to
+    buttonlink: 'work'
+    # Hero image (from static/images/___)
+    image: me.png #illustrations/worker.svg #me.png
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Blog
+    url: /blog
+  - title: GitHub
+    url: https://GitHub.com/StefMa
+  - title: Talks
+    url: /talks
+  - title: Work
+    url: /work
+  - title: Contact
+    url: "/#section5"
+  section5:
+    title: Contact me
+    subtitle: I'm happy to answer all your questions
+    buttonText: Send Message
+    action: https://formspree.io/f/xzbqzkek
+    method: POST

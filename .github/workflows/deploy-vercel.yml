@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  buildGitHubPages:
+  buildAndDeployVercel:
     runs-on: ubuntu-latest
     steps:
       - name: Install Hugo CLI

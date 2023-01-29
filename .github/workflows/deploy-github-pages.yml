@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -12,7 +12,7 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  buildGitHubPages:
     runs-on: ubuntu-latest
     steps:
       - name: Install Hugo CLI
@@ -29,7 +29,7 @@ jobs:
         with:
           path: ./public
 
-  deploy:
+  deployGitHubPages:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

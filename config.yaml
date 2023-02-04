@@ -46,12 +46,14 @@ params:
   navbar:
   - title: Blog
     url: /blog
-  - title: GitHub
-    url: https://GitHub.com/StefMa
+  - title: Projects
+    url: "/projects"
   - title: Talks
     url: /talks
   - title: Work
     url: /work
+  - title: GitHub
+    url: https://GitHub.com/StefMa
   - title: Contact
     url: "/#section5"
   section5:

@@ -19,6 +19,10 @@ include_footer: false # or false to display the footer
 
 **Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, GitHub, ZenHub, Clean Architecture, Gradle, Model-View-ViewModel (MVVM), Kotlin Coroutines, Bitrise, RxJava
 
+{{% title4 "2017 - 2018, Android Developer Nanodegree at Udacity, remotely" %}}
+
+See also [Projects](/projects) for more.
+
 {{% title4 "2016 - 2020, Android Developer at grandcentrix, remotely" %}}
 
 * Developed, improved and maintained various Android apps:

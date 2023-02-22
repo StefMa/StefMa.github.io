@@ -24,6 +24,12 @@ Find on <a href="https://github.com/StefMa/AppVersionsSlackSlash/"><span class="
 
 Find on <a href="https://github.com/StefMa/hugo-fresh/"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
 
+{{% title4 "Android Developer Nanodegree" %}}
+
+*I got a scholarship for the [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) at Udacity at the end of 2017. The project contains all tasks which I had to solve.*
+
+Find on <a href="https://github.com/StefMa/UdacityAndroidNanodegree"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
+
 {{% title4 "(Abandoned) bintray-release, ArtifactoryPublish and AndroidArtifacts" %}}
 </p>
 {{% subtitle5 "bintray-release" %}}

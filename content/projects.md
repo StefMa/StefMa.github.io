@@ -24,7 +24,7 @@ Find on <a href="https://github.com/StefMa/AppVersionsSlackSlash/"><span class="
 
 Find on <a href="https://github.com/StefMa/hugo-fresh/"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
 
-{{% title4 "bintray-release, ArtifactoryPublish and AndroidArtifacts" %}}
+{{% title4 "(Abandoned) bintray-release, ArtifactoryPublish and AndroidArtifacts" %}}
 </p>
 {{% subtitle5 "bintray-release" %}}
 
@@ -44,7 +44,7 @@ Find on <a href="https://github.com/StefMa/ArtifactoryPublish"><span class="icon
 
 Find on <a href="https://github.com/StefMa/AndroidArtifacts"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
 
-{{% title4 "(Abounded) Geist & Geist-Server" %}}
+{{% title4 "(Abandoned) Geist & Geist-Server" %}}
 </p>
 {{% subtitle5 "Geist" %}}
 
@@ -60,7 +60,7 @@ Find on <a href="https://github.com/StefMa/Geist-Server"><span class="icon"><i c
 
 Read more about it in [this Blog](https://stefma.medium.com/geist-uploading-made-easy-6d8769469fa4).
 
-{{% title4 "(Abounded) MegaSound Beta" %}}
+{{% title4 "(Abandoned) MegaSound Beta" %}}
 
 *Take the full control of the sounds for incoming notifications!*
 

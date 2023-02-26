@@ -2,3 +2,5 @@ github.com/StefMa/hugo-fresh v0.0.0-20220922022354-244bcfcbdfc1 h1:+UDMCb6uLY+DO
 github.com/StefMa/hugo-fresh v0.0.0-20220922022354-244bcfcbdfc1/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
 github.com/StefMa/hugo-fresh v0.0.0-20230118074927-0c2ca44b94ef h1:B1+9WrwA8jI91jYIUkJRxBiblkkUBgPmbwx8YlweJ+0=
 github.com/StefMa/hugo-fresh v0.0.0-20230118074927-0c2ca44b94ef/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
+github.com/StefMa/hugo-fresh v0.0.0-20230225195141-b43789ae6df8 h1:Zdh2UxngjAqy5VtcmiPgONrUTpXfGVNkeQNrm0YRF5w=
+github.com/StefMa/hugo-fresh v0.0.0-20230225195141-b43789ae6df8/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=

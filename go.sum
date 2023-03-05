@@ -1,6 +1,3 @@
-github.com/StefMa/hugo-fresh v0.0.0-20220922022354-244bcfcbdfc1 h1:+UDMCb6uLY+DOcuT3i3xI2SRlMIO271glPnU09ScpEk=
-github.com/StefMa/hugo-fresh v0.0.0-20220922022354-244bcfcbdfc1/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
-github.com/StefMa/hugo-fresh v0.0.0-20230118074927-0c2ca44b94ef h1:B1+9WrwA8jI91jYIUkJRxBiblkkUBgPmbwx8YlweJ+0=
-github.com/StefMa/hugo-fresh v0.0.0-20230118074927-0c2ca44b94ef/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
-github.com/StefMa/hugo-fresh v0.0.0-20230225195141-b43789ae6df8 h1:Zdh2UxngjAqy5VtcmiPgONrUTpXfGVNkeQNrm0YRF5w=
-github.com/StefMa/hugo-fresh v0.0.0-20230225195141-b43789ae6df8/go.mod h1:0kyrjS5vdFJ47D7bPs6JwXTkctiMaQbToeBaOQsw1Tw=
+github.com/StefMa/hugo-fresh v1.0.0 h1:Nxo9WtzfBlaFi1G8NEHQLReJQz+Dn4jRxec+lMrPG6k=
+github.com/StefMa/hugo-fresh v1.0.0/go.mod h1:yRzHyco0bfnITjvq7rfAiOADfGMrDlM0kXeKBllUJEc=
+github.com/jgthms/bulma v0.0.0-20220508134905-3e00a8e6d0d0/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=

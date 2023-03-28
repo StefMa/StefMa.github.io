@@ -14,8 +14,12 @@ include_footer: false # or false to display the footer
   * and much more...
 * Leading the Android team since November 2021
 * Helped to grow the Android team from 3 to 7 developers - in a healthy way
-* Bringing new Android developers on board with the code base and anything else related to the project
-* Improve developer culture by taking ownership of Hackday, organising ioki-themed planning poker parts, organising KotlinConf Global 2023, organising team-wide off-sites (minigolf) and more...
+* Bringing new Android developers on board with the codebase and anything else related to the project
+* Establish a regular coding dojo for continuous learning for the Android team
+* Taking ownership of the Hackday
+  * Organize the annual company-wide Hackday
+  * Involves the Hackday to an [global Hackday](https://stefma.medium.com/announcing-the-global-ioki-hackday-2022-a1d14341e3f2)
+* Improve developer culture by organising ioki-themed planning poker parts, organising [KotlinConf Global 2023](https://www.meetup.com/de-DE/kotlin-rhein-main/events/290925298/), creating an ioki-themes card game, organising team-wide off-sites (minigolf) and more...
 
 **Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, GitHub, ZenHub, Clean Architecture, Gradle, Model-View-ViewModel (MVVM), Kotlin Coroutines, Bitrise, RxJava
 

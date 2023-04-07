@@ -5,6 +5,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
+* Apr 06, 2023: [Streamline your development process with a convenient Gradle plugin](https://stefma.medium.com/streamline-your-development-process-with-a-convenient-gradle-plugin-a3419868ddd4)
 * Feb 27, 2023: [My attempt on explaining Kotlin Coroutines](https://stefma.medium.com/my-attempt-on-explaining-kotlin-coroutines-eb2897d2f399)
 * Jan 30, 2023: [What is R8 and how we enabled it](https://stefma.medium.com/what-is-r8-and-how-we-enabled-it-4f5764a7ff9c)
 * Nov 25, 2022: [Jetpack Compose: remember, mutableStateOf, derivedStateOf and rememberSaveable explained](https://stefma.medium.com/jetpack-compose-remember-mutablestateof-derivedstateof-and-remembersaveable-explained-270dbaa61b8)

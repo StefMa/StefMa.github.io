@@ -21,7 +21,7 @@ include_footer: false # or false to display the footer
   * Involves the Hackday to an [global Hackday](https://stefma.medium.com/announcing-the-global-ioki-hackday-2022-a1d14341e3f2)
 * Improve developer culture by organising ioki-themed planning poker parts, organising [KotlinConf Global 2023](https://www.meetup.com/de-DE/kotlin-rhein-main/events/290925298/), creating an ioki-themes card game, organising team-wide off-sites (minigolf) and more...
 
-**Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, GitHub, ZenHub, Clean Architecture, Gradle, Model-View-ViewModel (MVVM), Kotlin Coroutines, Bitrise, RxJava
+**Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, GitHub Actions, CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, GitHub, ZenHub, Clean Architecture, Gradle, Model-View-ViewModel (MVVM), Kotlin Coroutines, RxJava
 
 {{% title4 "2017 - 2018, Android Developer Nanodegree at Udacity, remotely" %}}
 

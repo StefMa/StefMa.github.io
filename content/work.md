@@ -32,7 +32,7 @@ See also [Projects](/projects) for more.
 * Developed, improved and maintained various Android apps:
   * The biggest grocery shopping app in Switzerland
   * An app to control various household appliances such as dishwashers, vacuum cleaners, cooker hoods, etc.
-  * A football (EN-US)/soccer (EN-GB) betting app
+  * A football (EN-US)/soccer (EN-GB) gambling app
   * A health insurance app
   * and many more...
 * Work on various open source libraries e.g. [ThirtyInch](https://github.com/GCX-HCI/ThirtyInch), [PhaseAppGradlePlugin](https://github.com/GCX-HCI/grandcentrix-PhraseAppGradlePlugin), [tray](https://github.com/GCX-HCI/tray) and more

@@ -22,7 +22,7 @@ include_footer: false # or false to display the footer
 * Published, worked and maintained various open source projects such as [SentryProguardGradlePlugin](https://github.com/ioki-mobility/SentryProguardGradlePlugin), [LokaliseGradlePlugin](https://github.com/ioki-mobility/LokaliseGradlePlugin), [ProgressButton](https://github.com/ioki-mobility/ProgressButton), [TextRef](https://github.com/ioki-mobility/TextRef), and [AppVersionsSlackSlash](https://github.com/StefMa/AppVersionsSlackSlash)
 * Improve developer culture by organising ioki-themed planning poker parts, organising [KotlinConf Global 2023](https://www.meetup.com/de-DE/kotlin-rhein-main/events/290925298/), creating an ioki-themes card game, organising team-wide off-sites (e.g. minigolf) and more...
 
-**Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, GitHub Actions, CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, GitHub, ZenHub, Clean Architecture, Gradle, Model-View-ViewModel (MVVM), Kotlin Coroutines, RxJava
+**Buzzwords**: Android SDK, Gradle, Kotlin, Bitrise, GitHub (Actions, Projects), CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, ZenHub, Clean Architecture, Model-View-ViewModel (MVVM), Kotlin Coroutines, RxJava
 
 {{% title4 "2017 - 2018, Android Developer Nanodegree at Udacity, remotely" %}}
 

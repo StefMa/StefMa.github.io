@@ -25,7 +25,7 @@ jobs:
             --minify \
             --baseURL https://stefma.github.io/
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
 

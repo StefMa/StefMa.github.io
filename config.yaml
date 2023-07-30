@@ -35,7 +35,7 @@ params:
     # Main hero title
     title: Stefan "StefMa" M.
     # Hero subtitle (optional)
-    subtitle: 'Passionate Android developer with over a decade of experience. Takes architecture, testing, and developer productivity seriously. Loves to automate things and takes ownership of the projects he  works on. Believes in open-source software and Scrum. Loves to share his knowledge in various ways.'
+    subtitle: 'Android enthusiast with a decade of hands-on experience. Devoted to crafting solid architecture, thorough testing, and boosting developer productivity. Loves automating tasks and takes full ownership of projects. Enthusiastic about open-source software and follows Scrum practices. Enjoys sharing knowledge in various ways.'
     # Button text
     buttontext: 'Work experience'
     # Where the main hero button links to

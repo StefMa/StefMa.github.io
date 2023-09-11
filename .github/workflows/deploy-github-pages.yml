@@ -18,7 +18,7 @@ jobs:
       - name: Install Hugo CLI
         run: sudo apt install hugo
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Build with Hugo
         run: |
           hugo \

@@ -5,6 +5,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
+* Sep 12, 2023: [A bird’s eye view of the ioki Android app architecture](https://stefma.medium.com/a-birds-eye-view-of-the-ioki-android-app-architecture-8b21d721a446)
 * May 24, 2023: [The concept of a “developer-facing language” on Android](https://stefma.medium.com/the-concept-of-a-developer-facing-language-on-android-9e6be842a7fc)
 * Apr 21, 2023: [sourceCompatibility, targetCompatibility, and JVM toolchains in Gradle explained](https://stefma.medium.com/sourcecompatibility-targetcompatibility-and-jvm-toolchains-in-gradle-explained-d2c17c8cff7c)
 * Apr 06, 2023: [Streamline your development process with a convenient Gradle plugin](https://stefma.medium.com/streamline-your-development-process-with-a-convenient-gradle-plugin-a3419868ddd4)

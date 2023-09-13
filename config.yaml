@@ -47,8 +47,8 @@ params:
       url: https://github.com/StefMa
     - logo: medium
       url: https://StefMa.medium.com
-    - logo: twitter
-      url: https://twitter.com/StefMa91
+    - logo: x
+      url: https://x.com/StefMa91
     - logo: stack-overflow
       url: https://stackoverflow.com/users/1231245/stefma
   # Customizable navbar. For a dropdown, add a "sublinks" list.

@@ -5,6 +5,25 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
+{{% title4 "From hundred (86) to zero (7). How we publish 67 Android apps in under 7 minutes." %}}
+
+Given at Mobile DevOps Summit 2023
+
+Imagine being able to publish 67 Android white-labeled-apps in under 7 minutes. It may seem like an impossible feat, but our team has turned this into a reality.
+
+Since 2017, we have committed ourselves to a rigorous publishing schedule, releasing our apps every two weeks without fail. This relentless dedication has taught us valuable lessons about the importance of investing in our release pipeline and continuously improving it.
+
+In this talk, we will share the secrets behind our remarkable achievement and delve into the strategies and tools that have enabled us to streamline the publishing process.
+
+3 key takeaways from this session: 
+1. Continuously investing into your release pipeline is critical for your success
+2. Sometimes it is not obvious which changes require more attention
+3. ...
+
+(Slides available at [Speaker Deck](https://speakerdeck.com/stefma/from-hundred-86-to-zero-7-how-we-publish-67-android-apps-in-under-7-minutes))
+
+</br>
+
 {{% title4 "A guide through publishing white label apps in a healthy way" %}}
 
 Given at Mobile DevOps Summit 2022
@@ -23,7 +42,6 @@ Takeaways from this session:
 1. A reliable continues delivery server is important
 2. Architecture is important when you publish multiple apps
 3. What does it mean to growth in a healthy way
-
 
 (Slides available at [Speaker Deck](https://speakerdeck.com/stefma/a-guide-through-publishing-white-label-apps-in-a-healthy-way))
 

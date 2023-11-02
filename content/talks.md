@@ -22,6 +22,8 @@ In this talk, we will share the secrets behind our remarkable achievement and de
 
 (Slides available at [Speaker Deck](https://speakerdeck.com/stefma/from-hundred-86-to-zero-7-how-we-publish-67-android-apps-in-under-7-minutes))
 
+{{< youtube id="DuVHKKvfSOk" >}}
+
 </br>
 
 {{% title4 "A guide through publishing white label apps in a healthy way" %}}

@@ -5,7 +5,8 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
-{{% title4 "2020 - Today, Senior Android Developer at ioki, remotely" %}}
+{{% title4 "11/2023 - Today, Principal Android Developer at ioki, remotely" %}}
+{{% subtitle5 "01/2020 - 11/2023, Senior Android Developer at ioki, remotely" %}}
 
 * Developed, improved and maintained the ioki passenger app(s) on the basis of a white label product
   * architecture
@@ -24,11 +25,11 @@ include_footer: false # or false to display the footer
 
 **Buzzwords**: Android SDK, Gradle, Kotlin (+ Coroutines), Bitrise, GitHub (+ Actions, Projects), CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, ZenHub, Clean Architecture, Model-View-ViewModel (MVVM), RxJava, Unit Test
 
-{{% title4 "2017 - 2018, Android Developer Nanodegree at Udacity, remotely" %}}
+{{% title4 "11/2017 - 02/2018, Android Developer Nanodegree at Udacity, remotely" %}}
 
 See also [Projects](/projects) for more.
 
-{{% title4 "2016 - 2020, Android Developer at grandcentrix, remotely" %}}
+{{% title4 "02/2016 - 01/2020, Android Developer at grandcentrix, remotely" %}}
 
 * Developed, improved and maintained various Android apps:
   * The biggest grocery shopping app in Switzerland
@@ -43,7 +44,7 @@ See also [Projects](/projects) for more.
 
 **Buzzwords**: Android SDK, Java, Kotlin, Jira, Beta Crashlytics (now Firebase Crashlytics), GitHub, Clean Architecture, Android Bluetooth Stack, Jenkins, Gradle, Model View Presenter (MVP), RxJava, Unit Test
 
-{{% title4 "2014 - 2016, Software Developer at Online Directory Service (merged into Gelbe Seiten in 2016)" %}}
+{{% title4 "07/2014 - 02/2016, Software Developer at Online Directory Service (merged into Gelbe Seiten in 2016)" %}}
 
 * Developed, improved and maintained the Gelbe Seiten [Android](https://play.google.com/store/apps/details?id=de.gelbeseiten.android) and [iOS App](https://apps.apple.com/de/app/gelbe-seiten-branchenbuch/id312387605)
 * Primary contact person
@@ -53,7 +54,7 @@ See also [Projects](/projects) for more.
 
 **Buzzwords**: Android SDK, Java, Objective-C, Swift, Testfairy, Beta Crashlytics (now Firebase Crashlytics), Jira, intensive course about TDD, intensive course about Scrum, Git, SVN, Jenkins, UI test, unit test, testing pyramid
 
-{{% title4 "2011 - 2014, Apprenticeship, Kuratorium für Dialyse und Nierentransplantation e.V." %}}
+{{% title4 "08/2011 - 07/2014, Apprenticeship, Kuratorium für Dialyse und Nierentransplantation e.V." %}}
 
 * ~30% at School, ~70% at Work
 * Exam project: Development of an billing system for renal centres across Germany in PHP

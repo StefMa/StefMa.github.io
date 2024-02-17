@@ -7,6 +7,7 @@ include_footer: false # or false to display the footer
 
 {{% title4 "2023" %}}
 
+* Feb 16, 2024: [Unveiling the Reality: My Experiment with Non-Transitive R Classes and Compilation Avoidance](https://stefma.medium.com/unveiling-the-reality-my-experiment-with-non-transitive-r-classes-and-compilation-avoidance-6296922db40f)
 * Nov 29, 2023: [The most condensed guide to publish to Maven Central with Gradle](https://stefma.medium.com/the-most-condensed-guide-to-publish-to-maven-central-with-gradle-1b612b1b9c40)
 * Sep 12, 2023: [A bird’s eye view of the ioki Android app architecture](https://stefma.medium.com/a-birds-eye-view-of-the-ioki-android-app-architecture-8b21d721a446)
 * May 24, 2023: [The concept of a “developer-facing language” on Android](https://stefma.medium.com/the-concept-of-a-developer-facing-language-on-android-9e6be842a7fc)

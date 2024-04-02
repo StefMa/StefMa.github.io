@@ -15,12 +15,16 @@ include_footer: false # or false to display the footer
   * and much more...
 * Leading the Android team since November 2021
 * Helped to grow the Android team from 3 to 7 developers - in a healthy way
-* Bringing new Android developers on board with the codebase and anything else related to the project
+* Bringing new Android developers on board to the codebase and anything else related to the project
 * Establish a regular coding dojo for continuous learning for the Android team
 * Taking ownership of the Hackday
   * Organize the annual company-wide Hackday
   * Involves the Hackday to an [global Hackday](https://stefma.medium.com/announcing-the-global-ioki-hackday-2022-a1d14341e3f2)
 * Published, worked and maintained various open source projects such as [SentryProguardGradlePlugin](https://github.com/ioki-mobility/SentryProguardGradlePlugin), [LokaliseGradlePlugin](https://github.com/ioki-mobility/LokaliseGradlePlugin), [kmp-lokalise-api](https://github.com/ioki-mobility/kmp-lokalise-api), [ProgressButton](https://github.com/ioki-mobility/ProgressButton), [TextRef](https://github.com/ioki-mobility/TextRef), and [AppVersionsSlackSlash](https://github.com/StefMa/AppVersionsSlackSlash)
+* Lead discussion panels at our annual department conference:
+  *  Developer Productivity Engineering
+  *  Open Source first - How to transform ioki to an open source company
+  *  Hackday 2023 & Hackday 2024
 * Improve developer culture by organising ioki-themed planning poker cards, organising [KotlinConf Global 2023](https://www.meetup.com/de-DE/kotlin-rhein-main/events/290925298/), creating an ioki-themes card game, organising team-wide off-sites (e.g. minigolf) and more...
 
 **Buzzwords**: Android SDK, Gradle, Kotlin (+ Coroutines), Bitrise, GitHub (+ Actions, Projects), CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, ZenHub, Clean Architecture, Model-View-ViewModel (MVVM), RxJava, Unit Test

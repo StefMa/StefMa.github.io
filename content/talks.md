@@ -5,9 +5,30 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
+{{% title4 "Summaraizer - Lessons learned along the way" %}}
+
+*Given at AI Dev Day with AI Hub FFM 2024*
+
+"How can AI help me in my day-to-day job?" I asked myself.
+
+The question was answered quite quickly the next day when I had to read through a 22-comment-long discussion on GitHub, our developer platform of choice at ioki. I thought about adding a comment like "AI, please summarize!" to that discussion to get an AI-generated summary of it.
+
+That idea became a reality, and we built a small helper tool called summaraizer that does exactly that.
+
+Along the way, we discovered a few interesting things about Large Language Models (LLMs) such as:
+* What is a token limit, why it matters, and how to address it?
+* Why does an LLM stream data?
+* How to instruct the model to summarize a series of comments?
+* And why doesn't the model always follow the instructions given?
+* Why do various model types exist, and how do they differ from one another?
+
+In this talk, I want to provide a brief overview of summaraizer and address some of the questions that arose during its development.
+
+(Slides available at [Speaker Deck](https://speakerdeck.com/stefma/summaraizer-lessons-learned-along-the-way))
+
 {{% title4 "From hundred (86) to zero (7). How we publish 67 Android apps in under 7 minutes." %}}
 
-Given at Mobile DevOps Summit 2023
+*Given at Mobile DevOps Summit 2023*
 
 Imagine being able to publish 67 Android white-labeled-apps in under 7 minutes. It may seem like an impossible feat, but our team has turned this into a reality.
 
@@ -28,7 +49,7 @@ In this talk, we will share the secrets behind our remarkable achievement and de
 
 {{% title4 "A guide through publishing white label apps in a healthy way" %}}
 
-Given at Mobile DevOps Summit 2022
+*Given at Mobile DevOps Summit 2022*
 
 Publishing and releasing one Android app is easy.
 
@@ -51,9 +72,19 @@ Takeaways from this session:
 
 </br>
 
+{{% title4 "Lession learned - How to build a GitHub Action" %}}
+
+*Given at a company internal thundertalk*
+
+Me and a few colleagues participated at the GitHub Actions Hackathon 2020.
+We didn't know how to build a GitHub Action.
+This slides gives you a roughly overview how you can build a GitHub Action by yourself.
+
+(Slides available at [Speaker Deck](https://speakerdeck.com/stefma/lession-learned-how-to-build-a-github-action))
+
 {{% title4 "How to write a Gradle Plugin (in Kotlin)" %}}
 
-Given at Droidcon Italy 2018
+*Given at Droidcon Italy 2018*
 
 Every Android Developer is familiar with Gradle, right?</br>
 We know how to apply a plugin, how to setup the Android extension and how to declare our dependencies.
@@ -76,3 +107,9 @@ Basically you will leave my talk knowing the basics of the Gradle plugin develop
 (Slides available at [Speaker Deck](https://speakerdeck.com/stefma/how-to-write-gradle-plugins-in-kotlin))
 
 {{< youtube id="NK4-n6uQA0g" >}}
+
+<hr>
+
+<p align="center">
+<b>More talks might not be listed here, but the slides can be found at <a href="https://speakerdeck.com/stefma/">Speacker Deck</a><b/>
+</p>

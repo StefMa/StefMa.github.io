@@ -13,9 +13,13 @@ As part of my employment at [ioki](/work), I have created, maintained, and contr
 
 Summarizes comments from a variety of sources, such as GitHub issues, Reddit threads, and more using AI models from different providers, such as Ollama, Mistral, OpenAI, and more.
 
+Find on <a href="https://github.com/ioki-mobility/summaraizer"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
+
 {{% subtitle5 "summaraizer-action" %}}
 
 A GitHub Action that summarize GitHub issue (or pull request) comments.
+
+Find on <a href="https://github.com/ioki-mobility/summaraizer-action"><span class="icon"><i class="fa fa-github"></i></span>GitHub</a>
 
 {{% subtitle5 "TextRef" %}}
 

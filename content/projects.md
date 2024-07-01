@@ -7,7 +7,15 @@ include_footer: false # or false to display the footer
 
 {{% title4 "OpenSource@ioki" %}}
 
-As part of my employment at [ioki](/work), I have published, maintained, and contributed to various open source projects.
+As part of my employment at [ioki](/work), I have created, maintained, and contributed to various open source projects.
+
+{{% subtitle5 "summaraizer" %}}
+
+Summarizes comments from a variety of sources, such as GitHub issues, Reddit threads, and more using AI models from different providers, such as Ollama, Mistral, OpenAI, and more.
+
+{{% subtitle5 "summaraizer-action" %}}
+
+A GitHub Action that summarize GitHub issue (or pull request) comments.
 
 {{% subtitle5 "TextRef" %}}
 

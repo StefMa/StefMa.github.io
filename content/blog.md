@@ -7,6 +7,7 @@ include_footer: false # or false to display the footer
 
 {{% title4 "2024" %}}
 
+* Nov 19, 2024: [ETag caching with OkHttp](https://stefma.medium.com/etag-caching-with-okhttp-7b37e494e9e8)
 * Oct 18, 2024: [Stay Curious and Play — My attempt to make use of generative AI at work](https://stefma.medium.com/stay-curious-and-play-my-attempt-to-make-use-of-generative-ai-at-work-d674e23c5e67)
 * Feb 16, 2024: [Unveiling the Reality: My Experiment with Non-Transitive R Classes and Compilation Avoidance](https://stefma.medium.com/unveiling-the-reality-my-experiment-with-non-transitive-r-classes-and-compilation-avoidance-6296922db40f)
 

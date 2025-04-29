@@ -30,15 +30,19 @@ include_footer: false # or false to display the footer
 
 **Buzzwords**: Android SDK, Gradle, Kotlin (+ Coroutines), Bitrise, GitHub (+ Actions, Projects), CI/CD, Firebase (Auth, Realtime Database, Analytics), Sentry, Google Cloud, Google Maps SDK, ZenHub, Clean Architecture, Model-View-ViewModel (MVVM), RxJava, Unit Test
 
-{{% title4 "01/2025 - 05/205, Generative AI at Udacity, remotely" %}}
+{{% title4 "01/2025 - 05/205, Generative AI Nanodegree at Udacity, remotely" %}}
 
 Doing the course [Generative AI](https://www.udacity.com/course/generative-ai--nd608).
+
+[Certifiacte](certifiactes/genai.pdf)
 
 **Buzzwords**: Generative AI, PyTorch, Transformers, Encoder-Decoder Architecture, GPT, Attention Mechanism, Virtual Transformer (ViT), Segment Anything (SAM), Generative adversarial network (GAN), Hugging Face, Datasets, Retrieve Augmented Generation
 
 {{% title4 "11/2017 - 02/2018, Android Developer Nanodegree at Udacity, remotely" %}}
 
 See also [Projects](/projects) for more.
+
+[Certifiacte](certifiactes/android_developer.pdf)
 
 {{% title4 "02/2016 - 01/2020, Android Developer at grandcentrix, remotely" %}}
 

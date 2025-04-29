@@ -34,7 +34,7 @@ include_footer: false # or false to display the footer
 
 Doing the course [Generative AI](https://www.udacity.com/course/generative-ai--nd608).
 
-[Certifiacte](certifiactes/genai.pdf)
+[Certifiacte](/certificates/genai.pdf)
 
 **Buzzwords**: Generative AI, PyTorch, Transformers, Encoder-Decoder Architecture, GPT, Attention Mechanism, Virtual Transformer (ViT), Segment Anything (SAM), Generative adversarial network (GAN), Hugging Face, Datasets, Retrieve Augmented Generation
 
@@ -42,7 +42,7 @@ Doing the course [Generative AI](https://www.udacity.com/course/generative-ai--n
 
 See also [Projects](/projects) for more.
 
-[Certifiacte](certifiactes/android_developer.pdf)
+[Certifiacte](/certificates/android_developer.pdf)
 
 {{% title4 "02/2016 - 01/2020, Android Developer at grandcentrix, remotely" %}}
 

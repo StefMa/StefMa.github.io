@@ -18,12 +18,14 @@ jobs:
           hugo \
             --minify \
             --baseURL https://stefma.guru
-      - name: Vercel Action
-        uses: amondnet/vercel-action@v25
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }} 
-          vercel-org-id: ${{ secrets.VERCEL_ORG_ID}} 
-          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}}
-          vercel-args: '--prod'
-          working-directory: ./public
-
+      - name: Install Vercel CLI
+        run: npm install --global vercel@latest
+      - name: Deploy to Vercel
+        working-directory: ./public
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          vercel pull --yes --token=${{ secrets.VERCEL_TOKEN }}
+          vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+          vercel deploy --prod --prebuilt --token=${{ secrets.VERCEL_TOKEN }}

@@ -2,8 +2,12 @@
 title: Blog
 sidebar: false
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
-include_footer: false # or false to display the footer
+include_footer: false
 ---
+
+{{% title4 "2026" %}}
+
+* Jan 02, 2026: [How a concurrency bug broke our push notifications](https://stefma.medium.com/how-we-broke-our-push-notifications-thanks-to-a-concurrency-bug-6b51c1c8ec39)
 
 {{% title4 "2024" %}}
 

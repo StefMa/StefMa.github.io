@@ -7,6 +7,7 @@ include_footer: false
 
 {{% title4 "2026" %}}
 
+* Feb 06, 2026: [Aiir — our small AI experiment that didn’t work out](https://stefma.medium.com/aiir-our-small-ai-experiment-that-didnt-work-out-9a05f5446df7)
 * Jan 02, 2026: [How a concurrency bug broke our push notifications](https://stefma.medium.com/how-we-broke-our-push-notifications-thanks-to-a-concurrency-bug-6b51c1c8ec39)
 
 {{% title4 "2024" %}}

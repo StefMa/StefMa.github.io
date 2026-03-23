@@ -5,6 +5,12 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: false # or false to display the footer
 ---
 
+{{% title4 "Decoder-only architecture or How the f*ck does ChatGPT work?" %}}
+
+After completing the Generative AI Nanodegree at Udacity, I gave a talk at my current employer explaining how decoder-only architectures—the foundation of modern large language models—work under the hood.
+
+(Slides available at [Speaker Deck](https://speakerdeck.com/stefma/decoder-only-architecture-or-how-the-f-star-ck-does-chatgpt-work)
+
 {{% title4 "Summaraizer - Lessons learned along the way" %}}
 
 *Given at AI Dev Day with AI Hub FFM 2024*

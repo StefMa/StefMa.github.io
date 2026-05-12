@@ -7,6 +7,7 @@ include_footer: false
 
 {{% title4 "2026" %}}
 
+* May 11, 2026: [Speculative Decoding Explained for Laymen](https://stefma.medium.com/speculative-decoding-explained-for-laymen-b41298de5604)
 * Apr 20, 2026: [Firebase Cloud Functions and the bazillion other services that power it](https://stefma.medium.com/firebase-cloud-functions-and-the-bazillion-other-services-that-power-it-d7645261b912)
 * Mar 19, 2026: [CompositionLocal in Jetpack Compose](https://stefma.medium.com/compositionlocal-in-jetpack-compose-96c4052874eb)
 * Feb 06, 2026: [Aiir — our small AI experiment that didn’t work out](https://stefma.medium.com/aiir-our-small-ai-experiment-that-didnt-work-out-9a05f5446df7)

@@ -7,6 +7,7 @@ include_footer: false
 
 {{% title4 "2026" %}}
 
+* Nov 16, 2026: [Deskilled without noticing — why I’m reconsidering the Coding Dojo](https://stefma.medium.com/deskilled-without-noticing-why-im-reconsidering-the-coding-dojo-04a08817701f)
 * May 11, 2026: [Speculative Decoding Explained for Laymen](https://stefma.medium.com/speculative-decoding-explained-for-laymen-b41298de5604)
 * Apr 20, 2026: [Firebase Cloud Functions and the bazillion other services that power it](https://stefma.medium.com/firebase-cloud-functions-and-the-bazillion-other-services-that-power-it-d7645261b912)
 * Mar 19, 2026: [CompositionLocal in Jetpack Compose](https://stefma.medium.com/compositionlocal-in-jetpack-compose-96c4052874eb)

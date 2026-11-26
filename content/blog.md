@@ -7,6 +7,7 @@ include_footer: false
 
 {{% title4 "2026" %}}
 
+* Nov 26, 2026: [We don't need AI skills, we need better processes](https://stefma.medium.com/we-dont-need-ai-skills-we-need-better-processes-5aeca8d78266)
 * Nov 16, 2026: [Deskilled without noticing — why I’m reconsidering the Coding Dojo](https://stefma.medium.com/deskilled-without-noticing-why-im-reconsidering-the-coding-dojo-04a08817701f)
 * May 11, 2026: [Speculative Decoding Explained for Laymen](https://stefma.medium.com/speculative-decoding-explained-for-laymen-b41298de5604)
 * Apr 20, 2026: [Firebase Cloud Functions and the bazillion other services that power it](https://stefma.medium.com/firebase-cloud-functions-and-the-bazillion-other-services-that-power-it-d7645261b912)
